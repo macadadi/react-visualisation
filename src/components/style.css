@@ -1,0 +1,7 @@
+.BarContainer {
+	display: flex;
+	margin: 2rem;
+}
+.BarChartContainer {
+	width: 80%;
+}
